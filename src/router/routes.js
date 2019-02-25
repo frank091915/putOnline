@@ -96,8 +96,7 @@ export default [
 		{
 	name:"mine",
 	path:"/mine",
-	components:{
-		header: head,		
+	components:{	
 		main:mine,
 		tabbar
 	},
